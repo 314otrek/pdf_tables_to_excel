@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Wirtualne środowisko
+venv/
+env/
+ENV/
+
+# Pliki IDE
+.vscode/
+.idea/
+
+# Pliki React
+node_modules/
+build/
+.DS_Store
+
+# Pliki Flask
+instance/
+.webassets-cache
